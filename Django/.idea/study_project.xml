@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="course">
+        <Course>
+          <option name="adaptive" value="false" />
+          <option name="authors">
+            <list>
+              <StepicUser>
+                <option name="accessToken" />
+                <option name="email" value="" />
+                <option name="firstName" value="" />
+                <option name="id" value="1794841" />
+                <option name="lastName" value="" />
+                <option name="refreshToken" />
+              </StepicUser>
+            </list>
+          </option>
+          <option name="courseDirectory" value="C:\Users\Boris\.PyCharmEdu3.5\config\courses\Django Tutorial" />
+          <option name="courseMode" value="Study" />
+          <option name="courseType" value="PyCharm" />
+          <option name="description" value="Django Tutorial based on Django Girls Tutorial (https://tutorial.djangogirls.org/en)  and Django official documentation (https://docs.djangoproject.com/en/1.10/)" />
+          <option name="id" value="1766" />
+          <option name="language" value="Python" />
+          <option name="lessons">
+            <list>
+              <Lesson>
+                <option name="id" value="35980" />
+                <option name="index" value="1" />
+                <option name="name" value="lesson1" />
+                <option name="updateDate" value="1482217087000" />
+                <option name="taskList">
+                  <list>
+                    <Task>
+                      <option name="activeSubtaskIndex" value="0" />
+                      <option name="adaptiveTaskParameters" />
+                      <option name="index" value="1" />
+                      <option name="lastSubtaskIndex" value="6" />
+                      <option name="name" value="task1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="146769" />
+                      <option name="text" />
+                      <option name="theoryTask" value="false" />
+                      <option name="updateDate" value="1482217068000" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="blog/__init__.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="7" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="blog/__init__.py" />
+                                <option name="text" value="" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="blog/models.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="0" />
+                                          <option name="offset" value="76" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="0" />
+                                      <option name="offset" value="76" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="true" />
+                                                <option name="placeholderText" value="inherit Post from django models.Model" />
+                                                <option name="possibleAnswer" value="models.Model" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="1" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="0" />
+                                          <option name="offset" value="123" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="0" />
+                                      <option name="offset" value="123" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list>
+                                                    <option value="Use max_length parameter" />
+                                                  </list>
+                                                </option>
+                                                <option name="needInsertText" value="true" />
+                                                <option name="placeholderText" value="    define title as a CharField with max length equals to 200" />
+                                                <option name="possibleAnswer" value="    title = models.CharField(max_length=200)" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="2" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="0" />
+                                          <option name="offset" value="216" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="0" />
+                                      <option name="offset" value="216" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list>
+                                                    <option value="Use blank parameter to allow the field to be blank." />
+                                                    <option value="Use null parameter to make Django store empty values as NULL in the database" />
+                                                  </list>
+                                                </option>
+                                                <option name="needInsertText" value="true" />
+                                                <option name="placeholderText" value="    define published_date as a DateTimeField" />
+                                                <option name="possibleAnswer" value="    published_date = models.DateTimeField(blank=True, null=True)" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="5" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="blog/models.py" />
+                                <option name="text" value="from django.db import models&#10;from django.utils import timezone&#10;&#10;&#10;class Post():&#10;    author = models.ForeignKey('auth.User')&#10;&#10;    text = models.TextField()&#10;    created_date = models.DateTimeField(default=timezone.now)&#10;&#10;&#10;    def publish(self):&#10;        self.published_date = timezone.now()&#10;        self.save()&#10;&#10;    def __str__(self):&#10;        return self.title&#10;" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="blog/templates/blog/post_list.html">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="14" />
+                                          <option name="offset" value="33" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="14" />
+                                      <option name="offset" value="33" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="4">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list>
+                                                    <option value="This text will appear in the title bar of your browser" />
+                                                  </list>
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="Name your blog" />
+                                                <option name="possibleAnswer" value="Django Girls blog" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="1" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="21" />
+                                          <option name="offset" value="120" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="21" />
+                                      <option name="offset" value="120" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="4">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="Repeat your blog name" />
+                                                <option name="possibleAnswer" value="Django Girls Blog" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="2" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="24" />
+                                          <option name="offset" value="175" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="24" />
+                                      <option name="offset" value="175" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="4">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="Add your first post here" />
+                                                <option name="possibleAnswer" value="&lt;div&gt;&#10;            &lt;p&gt;published: 14.06.2014, 12:14&lt;/p&gt;&#10;            &lt;h2&gt;&lt;a href=&quot;&quot;&gt;My first post&lt;/a&gt;&lt;/h2&gt;&#10;            &lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;&#10;        &lt;/div&gt;" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                          <entry key="6">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list>
+                                                    <option value="Use {% for post in posts %} to iterate over posts" />
+                                                    <option value="Don't forget about closing tag {% endfor %}" />
+                                                  </list>
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="" />
+                                                <option name="possibleAnswer" value="{% for post in posts %}&#10;            {{ post }}&#10;        {% endfor %}" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="0" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="blog/templates/blog/post_list.html" />
+                                <option name="text" value="&lt;html&gt;&#10;    &lt;head&gt;&#10;        &lt;title&gt;Name your blog&lt;/title&gt;&#10;    &lt;/head&gt;&#10;    &lt;body&gt;&#10;        &lt;div&gt;&#10;            &lt;h1&gt;&lt;a href=&quot;&quot;&gt;Repeat your blog name&lt;/a&gt;&lt;/h1&gt;&#10;        &lt;/div&gt;&#10;&#10;        Add your first post here&#10;    &lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="blog/urls.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="0" />
+                                          <option name="offset" value="70" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="0" />
+                                      <option name="offset" value="70" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="2">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list>
+                                                    <option value="Use '^$' to match empty string" />
+                                                  </list>
+                                                </option>
+                                                <option name="needInsertText" value="true" />
+                                                <option name="placeholderText" value="    Map pattern for empty string to post_list from views" />
+                                                <option name="possibleAnswer" value="    url(r'^$', views.post_list, name='post_list')," />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="8" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="blog/urls.py" />
+                                <option name="text" value="from django.conf.urls import url&#10;from . import views&#10;&#10;urlpatterns = [&#10;&#10;]&#10;" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="blog/views.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="0" />
+                                          <option name="offset" value="88" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="0" />
+                                      <option name="offset" value="88" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="5">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list>
+                                                    <option value="Use ordered_by function on Post.objects.all() object" />
+                                                  </list>
+                                                </option>
+                                                <option name="needInsertText" value="true" />
+                                                <option name="placeholderText" value="    get all posts ordered by published_date" />
+                                                <option name="possibleAnswer" value="    posts = Post.objects.order_by('published_date')" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="1" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="0" />
+                                          <option name="offset" value="117" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="0" />
+                                      <option name="offset" value="117" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="3">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="true" />
+                                                <option name="placeholderText" value="pass blog/post_list.html template file here" />
+                                                <option name="possibleAnswer" value="blog/post_list.html" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="2" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="0" />
+                                          <option name="offset" value="121" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="0" />
+                                      <option name="offset" value="121" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="5">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="true" />
+                                                <option name="placeholderText" value="pass posts object to the template" />
+                                                <option name="possibleAnswer" value="'posts': posts" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="2" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="blog/views.py" />
+                                <option name="text" value="from django.shortcuts import render&#10;&#10;from .models import Post&#10;&#10;&#10;def post_list(request):&#10;&#10;    return render(request, '', {})&#10;" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="manage.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="1" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="manage.py" />
+                                <option name="text" value="#!/usr/bin/env python&#10;import os&#10;import sys&#10;&#10;if __name__ == &quot;__main__&quot;:&#10;    os.environ.setdefault(&quot;DJANGO_SETTINGS_MODULE&quot;, &quot;mysite.settings&quot;)&#10;    try:&#10;        from django.core.management import execute_from_command_line&#10;    except ImportError:&#10;        # The above import may fail for some other reason. Ensure that the&#10;        # issue is really that Django is missing to avoid masking other&#10;        # exceptions on Python 2.&#10;        try:&#10;            import django&#10;        except ImportError:&#10;            raise ImportError(&#10;                &quot;Couldn't import Django. Are you sure it's installed and &quot;&#10;                &quot;available on your PYTHONPATH environment variable? Did you &quot;&#10;                &quot;forget to activate a virtual environment?&quot;&#10;            )&#10;        raise&#10;    execute_from_command_line(sys.argv)&#10;" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="mysite/__init__.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="4" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="mysite/__init__.py" />
+                                <option name="text" value="" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="mysite/settings.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="21" />
+                                          <option name="offset" value="2925" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="length" value="21" />
+                                      <option name="offset" value="2925" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list>
+                                                    <option value="For instance 'Europe/Berlin'" />
+                                                  </list>
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="use correct time zone" />
+                                                <option name="possibleAnswer" value="UTC" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="3" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="mysite/settings.py" />
+                                <option name="text" value="&quot;&quot;&quot;&#10;Django settings for mysite project.&#10;&#10;Generated by 'django-admin startproject' using Django 1.10.3.&#10;&#10;For more information on this file, see&#10;https://docs.djangoproject.com/en/1.10/topics/settings/&#10;&#10;For the full list of settings and their values, see&#10;https://docs.djangoproject.com/en/1.10/ref/settings/&#10;&quot;&quot;&quot;&#10;&#10;import os&#10;&#10;# Build paths inside the project like this: os.path.join(BASE_DIR, ...)&#10;BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))&#10;&#10;&#10;# Quick-start development settings - unsuitable for production&#10;# See https://docs.djangoproject.com/en/1.10/howto/deployment/checklist/&#10;&#10;# SECURITY WARNING: keep the secret key used in production secret!&#10;SECRET_KEY = '-^c-ih(z2-7ze$jmth7bx+$=r&amp;k@kl=9zm%iuopp7i&amp;l0*#1ah'&#10;&#10;# SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = True&#10;&#10;ALLOWED_HOSTS = []&#10;&#10;&#10;# Application definition&#10;&#10;INSTALLED_APPS = [&#10;    'django.contrib.admin',&#10;    'django.contrib.auth',&#10;    'django.contrib.contenttypes',&#10;    'django.contrib.sessions',&#10;    'django.contrib.messages',&#10;    'django.contrib.staticfiles',&#10;    'blog',&#10;]&#10;&#10;MIDDLEWARE = [&#10;    'django.middleware.security.SecurityMiddleware',&#10;    'django.contrib.sessions.middleware.SessionMiddleware',&#10;    'django.middleware.common.CommonMiddleware',&#10;    'django.middleware.csrf.CsrfViewMiddleware',&#10;    'django.contrib.auth.middleware.AuthenticationMiddleware',&#10;    'django.contrib.messages.middleware.MessageMiddleware',&#10;    'django.middleware.clickjacking.XFrameOptionsMiddleware',&#10;]&#10;&#10;ROOT_URLCONF = 'mysite.urls'&#10;&#10;TEMPLATES = [&#10;    {&#10;        'BACKEND': 'django.template.backends.django.DjangoTemplates',&#10;        'DIRS': [],&#10;        'APP_DIRS': True,&#10;        'OPTIONS': {&#10;            'context_processors': [&#10;                'django.template.context_processors.debug',&#10;                'django.template.context_processors.request',&#10;                'django.contrib.auth.context_processors.auth',&#10;                'django.contrib.messages.context_processors.messages',&#10;            ],&#10;        },&#10;    },&#10;]&#10;&#10;WSGI_APPLICATION = 'mysite.wsgi.application'&#10;&#10;&#10;# Database&#10;# https://docs.djangoproject.com/en/1.10/ref/settings/#databases&#10;&#10;DATABASES = {&#10;    'default': {&#10;        'ENGINE': 'django.db.backends.sqlite3',&#10;        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),&#10;    }&#10;}&#10;&#10;&#10;# Password validation&#10;# https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators&#10;&#10;AUTH_PASSWORD_VALIDATORS = [&#10;    {&#10;        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',&#10;    },&#10;    {&#10;        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',&#10;    },&#10;    {&#10;        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',&#10;    },&#10;    {&#10;        'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',&#10;    },&#10;]&#10;&#10;&#10;# Internationalization&#10;# https://docs.djangoproject.com/en/1.10/topics/i18n/&#10;&#10;LANGUAGE_CODE = 'en-us'&#10;&#10;TIME_ZONE = 'use correct time zone'&#10;&#10;USE_I18N = True&#10;&#10;USE_L10N = True&#10;&#10;USE_TZ = True&#10;&#10;&#10;# Static files (CSS, JavaScript, Images)&#10;# https://docs.djangoproject.com/en/1.10/howto/static-files/&#10;&#10;STATIC_URL = '/static/'&#10;" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="mysite/urls.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="6" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="mysite/urls.py" />
+                                <option name="text" value="&quot;&quot;&quot;mysite URL Configuration&#10;&#10;The `urlpatterns` list routes URLs to views. For more information please see:&#10;    https://docs.djangoproject.com/en/1.10/topics/http/urls/&#10;Examples:&#10;Function views&#10;    1. Add an import:  from my_app import views&#10;    2. Add a URL to urlpatterns:  url(r'^$', views.home, name='home')&#10;Class-based views&#10;    1. Add an import:  from other_app.views import Home&#10;    2. Add a URL to urlpatterns:  url(r'^$', Home.as_view(), name='home')&#10;Including another URLconf&#10;    1. Import the include() function: from django.conf.urls import url, include&#10;    2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))&#10;&quot;&quot;&quot;&#10;from django.conf.urls import url, include&#10;from django.contrib import admin&#10;&#10;urlpatterns = [&#10;    url(r'^admin/', admin.site.urls),&#10;    url(r'', include('blog.urls')),&#10;]&#10;" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </Task>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+          <option name="name" value="Django Tutorial" />
+          <option name="updateDate" value="1482310741000" />
+        </Course>
+      </option>
+      <option name="enableTestingFromSamples" value="false" />
+      <option name="toolWindowMode" value="TEXT" />
+      <option name="turnEditingMode" value="false" />
+      <option name="VERSION" value="4" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="myInvisibleFiles">
+        <list>
+          <option value="$PROJECT_DIR$/lesson1/task1/blog" />
+          <option value="$PROJECT_DIR$/lesson1/task1/mysite" />
+        </list>
+      </option>
+      <option name="myShouldUseJavaFx" value="true" />
+    </StudyTaskManager>
+  </component>
+</project>

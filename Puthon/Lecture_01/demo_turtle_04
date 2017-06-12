@@ -1,0 +1,15 @@
+import turtle
+
+lenght_user=input("vavedete duljina na liniqta:")
+lenght=int(lenght_user)
+angle_user=input("vavedete ugal")
+angle=int(angle_user)
+
+turtle.speed('fastest')
+turtle.color('red')
+
+while True:
+    turtle.left(angle)
+    turtle.forward(lenght)
+
+turtle.done()

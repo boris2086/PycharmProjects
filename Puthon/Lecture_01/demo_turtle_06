@@ -1,0 +1,9 @@
+import turtle
+
+
+for i in range(500):
+    turtle.forward(i*100)
+    turtle.right(144)
+    i+=1
+    turtle.done()
+    ##---end
