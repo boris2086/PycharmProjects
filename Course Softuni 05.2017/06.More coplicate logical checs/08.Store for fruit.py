@@ -20,7 +20,7 @@ if day_of_week=='saturday' or day_of_week=='sunday':
             price=quontity * 5.60
         elif fruit=='grapes':
          price=quontity * 4.20
-elif day_of_week=='monday' or day_of_week=='tuesday' or day_of_week=='wednesday':
+elif day_of_week=='monday' or day_of_week=='tuesday' or day_of_week=='wednesday' or day_of_week=='friday' or day_of_week=='Thursday':
         if fruit=='banana':
             price = quontity * 2.50
         elif fruit=='apple':
