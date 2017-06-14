@@ -7,7 +7,6 @@ price=-1.0
 if day_of_week=='saturday' or day_of_week=='sunday':
         if  fruit=='banana':
             price = quontity * 2.70
-
         elif fruit=='apple':
             price= quontity * 1.25
         elif fruit=='orange':
@@ -35,7 +34,12 @@ elif day_of_week=='monday' or day_of_week=='tuesday' or day_of_week=='wednesday'
             price=quontity * 5.50
         elif fruit=='grapes':
             price=quontity * 3.85
-print("{0:.2f}".format(price))
+
+if price>=0:
+    print("{0:.2f}".format(price))
+else:
+    print('error')
+
 
 
 
