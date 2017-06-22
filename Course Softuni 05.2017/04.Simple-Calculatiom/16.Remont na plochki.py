@@ -1,0 +1,5 @@
+N=float(input())
+W=float(input())
+L=float(input())
+M=float(input())
+O=float(input())
