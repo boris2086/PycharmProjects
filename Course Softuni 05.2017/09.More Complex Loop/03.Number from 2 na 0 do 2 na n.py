@@ -1,6 +1,5 @@
 n=int(input())
-
-for num in range(1,n):
-    num=1
-    num=num*2
+num = 1
+for i in range(n+1):
     print(num)
+    num=num * 2
