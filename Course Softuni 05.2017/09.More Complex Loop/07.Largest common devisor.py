@@ -1,8 +1,7 @@
 a=int(input())
 b=int(input())
-while a!=b:
-    if a>b:
-        a = a-b
-    else:
-        b =b-a
-    print(a)
+while b!=0:
+    oldb=b
+    b = a%b
+    a =oldb
+print(a)
